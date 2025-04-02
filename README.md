@@ -14,7 +14,7 @@
 
 - - I’m currently working on [my own game](https://github.com/ManuCovr/Behind)
 
-- - I’m currently learning **C, Python and GDScript**
+- - I’m currently learning **C, C++, C# and GDScript**
 
 - - How to reach me **mtmpfb@gmail.com**
 
