@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manu (you can call me Spoon)</h1>
+<h1 align="center">Hi <span style="animation: wave 2s infinite; display: inline-block;">👋</span>, I'm Manu (you can call me Spoon)</h1>
 <h3 align="center">I'm a student @ 42Lisbon</h3>
 
 <p align="center">
@@ -7,9 +7,9 @@
   </a>
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manucovr&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=manucovr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manucovr&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=manucovr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <hr>
@@ -70,3 +70,16 @@
     </tr>
   </tbody>
 </table>
+
+<style>
+  @keyframes wave {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+</style>
