@@ -30,24 +30,26 @@
 <table align="center" border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
-      <th>Project</th>
-      <th>Important Concepts</th>
-      <th>Status</th>
+      <th align="center">Project</th>
+      <th align="center">Important Concepts</th>
+      <th align="center">Status</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ManuCovr/Behind">Behind</a></td>
-      <td>Game Development, C#, Unity</td>
-      <td>Ongoing</td>
+      <td align="center"><a href="https://github.com/ManuCovr/libft">Libft</a></td>
+      <td align="center">Standard Library Functions</td>
+      <td align="center">✅125%</td>
     </tr>
-    <!-- You can add more rows below -->
-    <!--
     <tr>
-      <td><a href="REPOSITORY_URL">Project Name</a></td>
-      <td>Concepts here</td>
-      <td>Grade/Ongoing</td>
+      <td align="center"><a href="https://github.com/ManuCovr/getnextline">GetNextLine</a></td>
+      <td align="center">[File Handling] [Memory Management] [Edge Case Handling]</td>
+      <td align="center">✅100%</td>
     </tr>
-    -->
+        <tr>
+      <td align="center"><a href="https://github.com/ManuCovr/so_long">So Long</a></td>
+      <td align="center">ermmm</td>
+      <td align="center">✅100%</td>
+    </tr>
   </tbody>
 </table>
