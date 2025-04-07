@@ -43,13 +43,38 @@
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/ManuCovr/getnextline">GetNextLine</a></td>
-      <td align="center">[File Handling] [Memory Management] [Edge Case Handling]</td>
+      <td align="center">Buffered file reading, dynamic memory, edge case handling</td>
       <td align="center">✅100%</td>
     </tr>
         <tr>
       <td align="center"><a href="https://github.com/ManuCovr/so_long">So Long</a></td>
-      <td align="center">ermmm</td>
+      <td align="center">2D game logic, pathfinding, input handling, rendering</td>
+      <td align="center">✅110%</td>
+    </tr>
+    </tr>
+        <tr>
+      <td align="center"><a href="https://github.com/ManuCovr/push_swap">Push Swap</a></td>
+      <td align="center">Sorting algorithms, stack operations, optimization under constraints</td>
       <td align="center">✅100%</td>
     </tr>
+    </tr>
+        <tr>
+      <td align="center"><a href="https://github.com/ManuCovr/pipex">Pipex</a></td>
+      <td align="center">UNIX piping, process forking, file descriptors, execve</td>
+      <td align="center">✅100%</td>
+    </tr>
+    </tr>
+        <tr>
+      <td align="center"><a href="https://github.com/bbento-a/ProjectMinishell">Minishell</a></td>
+      <td align="center">Shell parsing, environment vars, process control, redirections</td>
+      <td align="center">✅100%</td>
+    </tr>
+    </tr>
+        <tr>
+      <td align="center"><a href="https://github.com/ManuCovr/Philo">Philosophers</a></td>
+      <td align="center">Multithreading, mutexes, deadlock prevention, timing precision</td>
+      <td align="center">✅100%</td>
+    </tr>
+  
   </tbody>
 </table>
