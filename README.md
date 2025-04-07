@@ -24,52 +24,16 @@
 
 ### 🚀 Projects Overview
 
-<table align="center" border="1" cellspacing="0" cellpadding="8">
-  <thead>
-    <tr>
-      <th align="center">Project</th>
-      <th align="center">Important Concepts</th>
-      <th align="center">Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/ManuCovr/libft">Libft</a></td>
-      <td align="center">Standard Library Functions</td>
-      <td align="center">✅125%</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/ManuCovr/getnextline">GetNextLine</a></td>
-      <td align="center">Buffered file reading, dynamic memory, edge case handling</td>
-      <td align="center">✅100%</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/ManuCovr/so_long">So Long</a></td>
-      <td align="center">2D game logic, pathfinding, input handling, rendering</td>
-      <td align="center">✅110%</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/ManuCovr/push_swap">Push Swap</a></td>
-      <td align="center">Sorting algorithms, stack operations, optimization under constraints</td>
-      <td align="center">✅100%</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/ManuCovr/pipex">Pipex</a></td>
-      <td align="center">UNIX piping, process forking, file descriptors, execve</td>
-      <td align="center">✅100%</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/bbento-a/ProjectMinishell">Minishell</a></td>
-      <td align="center">Shell parsing, environment vars, process control, redirections</td>
-      <td align="center">✅101%</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/ManuCovr/Philo">Philosophers</a></td>
-      <td align="center">Multithreading, mutexes, deadlock prevention, timing precision</td>
-      <td align="center">✅100%</td>
-    </tr>
-  </tbody>
-</table>
+| 🚧 **Project**                          | 📚 **Important Concepts**                                        | ✅ **Status**  |
+|----------------------------------------|------------------------------------------------------------------|----------------|
+| [Libft](https://github.com/ManuCovr/libft)           | `Standard Library Functions`                                     | **125%**       |
+| [GetNextLine](https://github.com/ManuCovr/getnextline) | `Buffered reading, dynamic memory, edge cases`                   | **100%**       |
+| [So Long](https://github.com/ManuCovr/so_long)        | `2D game logic, pathfinding, rendering`                          | **110%**       |
+| [Push Swap](https://github.com/ManuCovr/push_swap)    | `Sorting algorithms, stacks, optimization`                       | **100%**       |
+| [Pipex](https://github.com/ManuCovr/pipex)            | `UNIX piping, fork, execve, file descriptors`                    | **100%**       |
+| [Minishell](https://github.com/bbento-a/ProjectMinishell) | `Shell parsing, process control, environment, redirections`      | **101%**       |
+| [Philosophers](https://github.com/ManuCovr/Philo)     | `Multithreading, mutexes, deadlock prevention, timing`           | **100%**       |
+
 
 <style>
   @keyframes wave {
