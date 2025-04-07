@@ -7,17 +7,14 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manucovr&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manucovr&show_icons=true&locale=en" alt="GitHub Stats">
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manucovr&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=manucovr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
 
 <hr>
 
-### About Me
+### 🧠 About Me
 
 - Currently working on [my own game](https://github.com/ManuCovr/Behind)
 - Learning **C, C++, C# and GDScript**
@@ -25,7 +22,7 @@
 
 <hr>
 
-### Projects Overview
+### 🚀 Projects Overview
 
 <table align="center" border="1" cellspacing="0" cellpadding="8">
   <thead>
@@ -46,35 +43,30 @@
       <td align="center">Buffered file reading, dynamic memory, edge case handling</td>
       <td align="center">✅100%</td>
     </tr>
-        <tr>
+    <tr>
       <td align="center"><a href="https://github.com/ManuCovr/so_long">So Long</a></td>
       <td align="center">2D game logic, pathfinding, input handling, rendering</td>
       <td align="center">✅110%</td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
       <td align="center"><a href="https://github.com/ManuCovr/push_swap">Push Swap</a></td>
       <td align="center">Sorting algorithms, stack operations, optimization under constraints</td>
       <td align="center">✅100%</td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
       <td align="center"><a href="https://github.com/ManuCovr/pipex">Pipex</a></td>
       <td align="center">UNIX piping, process forking, file descriptors, execve</td>
       <td align="center">✅100%</td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
       <td align="center"><a href="https://github.com/bbento-a/ProjectMinishell">Minishell</a></td>
       <td align="center">Shell parsing, environment vars, process control, redirections</td>
       <td align="center">✅101%</td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
       <td align="center"><a href="https://github.com/ManuCovr/Philo">Philosophers</a></td>
       <td align="center">Multithreading, mutexes, deadlock prevention, timing precision</td>
       <td align="center">✅100%</td>
     </tr>
-  
   </tbody>
 </table>
