@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manu (you can call me Spoon)</h1>
-<h3 align="center">I'm a Computer Science student from 42Lisbon</h3>
+<h3 align="center">I'm a student @ 42Lisbon</h3>
 
 <p align="center">
   <a href="https://github.com/manucovr">
