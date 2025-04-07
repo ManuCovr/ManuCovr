@@ -68,5 +68,10 @@
       <td align="center">Multithreading, mutexes, deadlock prevention, timing precision</td>
       <td align="center">✅100%</td>
     </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/bbento-a/42-Cub3D">Cube3D</a></td>
+      <td align="center">/td>
+      <td align="center">On Going</td>
+    </tr>
   </tbody>
 </table>
