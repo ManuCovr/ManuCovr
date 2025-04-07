@@ -67,7 +67,7 @@
         <tr>
       <td align="center"><a href="https://github.com/bbento-a/ProjectMinishell">Minishell</a></td>
       <td align="center">Shell parsing, environment vars, process control, redirections</td>
-      <td align="center">✅100%</td>
+      <td align="center">✅101%</td>
     </tr>
     </tr>
         <tr>
