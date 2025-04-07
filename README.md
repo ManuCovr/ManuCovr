@@ -70,7 +70,7 @@
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/bbento-a/42-Cub3D">Cube3D</a></td>
-      <td align="center">/td>
+      <td align="center">N/A</td>
       <td align="center">On Going</td>
     </tr>
   </tbody>
