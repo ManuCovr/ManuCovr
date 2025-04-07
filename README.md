@@ -1,4 +1,4 @@
-<h1 align="center">Hi <span style="animation: wave 2s infinite; display: inline-block;">👋</span>, I'm Manu (you can call me Spoon)</h1>
+<h1 align="center">Hi <span style="animation: wave 2s infinite; display: inline-block;">👋</span>, I'm Manu</h1>
 <h3 align="center">I'm a student @ 42Lisbon</h3>
 
 <p align="center">
