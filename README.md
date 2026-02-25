@@ -70,8 +70,8 @@
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/bbento-a/42-Cub3D">Cube3D</a></td>
-      <td align="center">N/A</td>
-      <td align="center">On Going</td>
+      <td align="center">3D raycasting, textures, player movement, collision detection</td>
+      <td align="center">✅100%</td>
     </tr>
   </tbody>
 </table>
