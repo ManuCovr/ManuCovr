@@ -39,7 +39,12 @@
     </tr>
     <tr>
       <td align="center"><a href="https://manucovr.github.io/pdfbox">PDFbox</a></td>
-      <td align="center">Free browser-based PDF toolkit — no uploads, no accounts</td>
+      <td align="center">Free browser-based PDF toolkit</td>
+      <td align="center">Vanilla JS</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://manucovr.github.io/regexa">Regexa</a></td>
+      <td align="center">Regex explainer — breaks down any pattern token by token with live match highlighting</td>
       <td align="center">Vanilla JS</td>
     </tr>
   </tbody>
