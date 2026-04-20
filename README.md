@@ -1,5 +1,7 @@
 <h1 align="center">Manu</h1>
-<p align="center">Student @ 42 Lisbon — building things with C, C++, C# and GDScript</p>
+<p align="center">Student @ 42 Lisbon — I like building things, mostly from scratch.</p>
+<p align="center">Currently learning C, C++, C# and GDScript, and working on my own game on the side.</p>
+<p align="center">mtmpfb@gmail.com</p>
 
 <p align="center">
   <a href="https://github.com/manucovr">
@@ -37,7 +39,7 @@
     </tr>
     <tr>
       <td align="center"><a href="https://manucovr.github.io/pdfbox">PDFbox</a></td>
-      <td align="center">Free browser-based PDF toolkit</td>
+      <td align="center">Free browser-based PDF toolkit — no uploads, no accounts</td>
       <td align="center">Vanilla JS</td>
     </tr>
   </tbody>
@@ -98,7 +100,3 @@
     </tr>
   </tbody>
 </table>
-
-<hr>
-
-<p align="center">mtmpfb@gmail.com</p>
