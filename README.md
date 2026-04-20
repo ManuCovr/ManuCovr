@@ -38,7 +38,7 @@
       <td align="center">JS, Chrome API</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://manucovr.github.io/pdfbox">PDFbox</a></td>
+      <td align="center"><a href="[https://manucovr.github.io/pdfbox](https://github.com/ManuCovr/pdfbox)">PDFbox</a></td>
       <td align="center">Free browser-based PDF toolkit</td>
       <td align="center">Vanilla JS</td>
     </tr>
