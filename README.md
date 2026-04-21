@@ -1,6 +1,6 @@
 <h1 align="center">Manu</h1>
 <p align="center">Student @ 42 Lisbon &nbsp;·&nbsp; Building things, mostly from scratch</p>
-<p align="center">C · C++ · C# · GDScript</p>
+<p align="center">C · C++ · C# · GDScript · CSS · HTML · Docker</p>
 
 <p align="center">
   <a href="https://github.com/manucovr">
