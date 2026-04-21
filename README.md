@@ -1,7 +1,6 @@
 <h1 align="center">Manu</h1>
-<p align="center">Student @ 42 Lisbon — I like building things, mostly from scratch.</p>
-<p align="center">Currently learning C, C++, C# and GDScript, and working on my own game on the side.</p>
-<p align="center">mtmpfb@gmail.com</p>
+<p align="center">Student @ 42 Lisbon &nbsp;·&nbsp; Building things, mostly from scratch</p>
+<p align="center">C · C++ · C# · GDScript</p>
 
 <p align="center">
   <a href="https://github.com/manucovr">
@@ -10,98 +9,45 @@
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manucovr&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=manucovr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=manucovr&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=manucovr&layout=compact&hide_border=true&theme=tokyonight" />
 </div>
 
-<hr>
+---
 
 ### Personal Projects
 
-<table align="center" border="1" cellspacing="0" cellpadding="8">
-  <thead>
-    <tr>
-      <th align="center">Project</th>
-      <th align="center">What it is</th>
-      <th align="center">Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/ManuCovr/Behind">Behind</a></td>
-      <td align="center">A game I'm building from scratch</td>
-      <td align="center">C#, GDScript</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/ManuCovr/improved_intra/tree/mde-maga">Improved Intra</a></td>
-      <td align="center">Browser extension that fixes the 42 intranet</td>
-      <td align="center">JS, Chrome API</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://manucovr.github.io/pdfbox">PDFbox</a></td>
-      <td align="center">Free browser-based PDF toolkit</td>
-      <td align="center">Vanilla JS</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://manucovr.github.io/regexa">Regexa</a></td>
-      <td align="center">Regex explainer — breaks down any pattern token by token with live match highlighting</td>
-      <td align="center">Vanilla JS</td>
-    </tr>
-  </tbody>
-</table>
+| Project | Description | Stack |
+|:--|:--|:--|
+| [Behind](https://github.com/ManuCovr/Behind) | Game built from scratch | C#, GDScript |
+| [MDpad](https://github.com/ManuCovr/MDpad) | Minimal markdown editor for the browser | Vanilla JS |
+| [Improved Intra](https://github.com/ManuCovr/improved_intra/tree/mde-maga) | Browser extension that fixes the 42 intranet | JS, Chrome API |
+| [PDFbox](https://manucovr.github.io/pdfbox) | Free browser-based PDF toolkit | Vanilla JS |
+| [Regexa](https://manucovr.github.io/regexa) | Regex explainer with live match highlighting | Vanilla JS |
 
-<hr>
+---
 
 ### 42 Lisbon
 
-<table align="center" border="1" cellspacing="0" cellpadding="8">
-  <thead>
-    <tr>
-      <th align="center">Project</th>
-      <th align="center">Concepts</th>
-      <th align="center">Score</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/ManuCovr/libft">Libft</a></td>
-      <td align="center">Standard library reimplementation</td>
-      <td align="center">125%</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/ManuCovr/getnextline">GetNextLine</a></td>
-      <td align="center">Buffered file reading, dynamic memory</td>
-      <td align="center">100%</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/ManuCovr/so_long">So Long</a></td>
-      <td align="center">2D game logic, pathfinding, rendering</td>
-      <td align="center">110%</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/ManuCovr/push_swap">Push Swap</a></td>
-      <td align="center">Sorting algorithms, stack operations</td>
-      <td align="center">100%</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/ManuCovr/pipex">Pipex</a></td>
-      <td align="center">UNIX piping, process forking, file descriptors</td>
-      <td align="center">100%</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/bbento-a/ProjectMinishell">Minishell</a></td>
-      <td align="center">Shell parsing, environment vars, process control</td>
-      <td align="center">101%</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/ManuCovr/Philo">Philosophers</a></td>
-      <td align="center">Multithreading, mutexes, deadlock prevention</td>
-      <td align="center">100%</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/bbento-a/42-Cub3D">Cube3D</a></td>
-      <td align="center">3D raycasting, textures, collision detection</td>
-      <td align="center">100%</td>
-    </tr>
-  </tbody>
-</table>
+| Project | Concepts | Score |
+|:--|:--|:--:|
+| [Libft](https://github.com/ManuCovr/libft) | Standard library reimplementation | 125% |
+| [GetNextLine](https://github.com/ManuCovr/getnextline) | Buffered file reading, dynamic memory | 100% |
+| [So Long](https://github.com/ManuCovr/so_long) | 2D game logic, pathfinding, rendering | 110% |
+| [Push Swap](https://github.com/ManuCovr/push_swap) | Sorting algorithms, stack operations | 100% |
+| [Pipex](https://github.com/ManuCovr/pipex) | UNIX piping, process forking, file descriptors | 100% |
+| [Minishell](https://github.com/bbento-a/ProjectMinishell) | Shell parsing, environment vars, process control | 101% |
+| [Philosophers](https://github.com/ManuCovr/Philo) | Multithreading, mutexes, deadlock prevention | 100% |
+| [Cube3D](https://github.com/bbento-a/42-Cub3D) | 3D raycasting, textures, collision detection | 100% |
+| [CPP Modules 00–04](https://github.com/ManuCovr/cpp) | OOP fundamentals, classes, inheritance, polymorphism | ✓ |
+| [CPP Modules 05–09](https://github.com/ManuCovr/cpp) | Templates, STL, exceptions, advanced OOP | ⏳ (09 pending) |
+| [Inception](https://github.com/ManuCovr/inception) | Docker, containerization, service orchestration | — |
+
+---
+
+<!-- NOTES (not rendered on GitHub):
+- CPP repo URL: assumed https://github.com/ManuCovr/cpp — confirm and update if different
+- CPP 00-04 scores: fill in actual scores
+- CPP 05-09 scores: fill in once 09 is delivered
+- Inception score: fill in once evaluated
+-->
