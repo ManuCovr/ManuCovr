@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=130&section=header"/>
 
 <h1 align="center">Manu</h1>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manuelbernardes42) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mtmpfb@gmail.com)
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=70A5FD&center=true&vCenter=true&width=460&lines=Student+%40+42+Lisbon;Building+things+from+scratch;C+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+GDScript" alt="Typing SVG" />
 </p>
