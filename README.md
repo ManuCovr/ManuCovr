@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://github.com/manucovr">
     <img src="https://img.shields.io/github/followers/manucovr?label=Follow&style=social" alt="GitHub Followers">
+    <img [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manuelbernardes42) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mtmpfb@gmail.com)>
   </a>
 </p>
 
