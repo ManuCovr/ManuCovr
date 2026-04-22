@@ -45,17 +45,17 @@
 
 | Project | Concepts | Score |
 |:--|:--|:--:|
-| [Libft](https://github.com/ManuCovr/libft) | Standard library reimplementation | 125% |
-| [GetNextLine](https://github.com/ManuCovr/getnextline) | Buffered file reading, dynamic memory | 100% |
-| [So Long](https://github.com/ManuCovr/so_long) | 2D game logic, pathfinding, rendering | 110% |
-| [Push Swap](https://github.com/ManuCovr/push_swap) | Sorting algorithms, stack operations | 100% |
-| [Pipex](https://github.com/ManuCovr/pipex) | UNIX piping, process forking, file descriptors | 100% |
-| [Minishell](https://github.com/bbento-a/ProjectMinishell) | Shell parsing, environment vars, process control | 101% |
-| [Philosophers](https://github.com/ManuCovr/Philo) | Multithreading, mutexes, deadlock prevention | 100% |
-| [Cube3D](https://github.com/bbento-a/42-Cub3D) | 3D raycasting, textures, collision detection | 100% |
+| [Libft](https://github.com/ManuCovr/libft) | Standard library reimplementation | ✓ |
+| [GetNextLine](https://github.com/ManuCovr/getnextline) | Buffered file reading, dynamic memory | ✓ |
+| [So Long](https://github.com/ManuCovr/so_long) | 2D game logic, pathfinding, rendering | ✓ |
+| [Push Swap](https://github.com/ManuCovr/push_swap) | Sorting algorithms, stack operations | ✓ |
+| [Pipex](https://github.com/ManuCovr/pipex) | UNIX piping, process forking, file descriptors | ✓ |
+| [Minishell](https://github.com/bbento-a/ProjectMinishell) | Shell parsing, environment vars, process control | ✓ |
+| [Philosophers](https://github.com/ManuCovr/Philo) | Multithreading, mutexes, deadlock prevention | ✓ |
+| [Cube3D](https://github.com/bbento-a/42-Cub3D) | 3D raycasting, textures, collision detection | ✓ |
 | [CPP Modules 00–04](https://github.com/ManuCovr/cpp) | OOP fundamentals, classes, inheritance, polymorphism | ✓ |
-| [CPP Modules 05–09](https://github.com/ManuCovr/cpp) | Templates, STL, exceptions, advanced OOP | ⏳ 09 pending |
-| [Inception](https://github.com/ManuCovr/inception) | Docker, containerization, service orchestration | 100% |
+| [CPP Modules 05–09](https://github.com/ManuCovr/cpp) | Templates, STL, exceptions, advanced OOP | 09 pending |
+| [Inception](https://github.com/ManuCovr/inception) | Docker, containerization, service orchestration | ✓ |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=130&section=footer"/>
 
