@@ -1,9 +1,3 @@
-  <p align="center">
-    <img src="https://styled-svg-cards-lij8f7jby-manucovrs-projects.vercel.app/api?user=manucovr&repos
-  =Behind,MDpad,improved_intra,pdfbox,regexa&title=Personal+Projects" />
-  </p>
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=130&section=header"/>
 <h1 align="center">Manu</h1>
 <p align="center">
@@ -36,7 +30,10 @@
 ---
 
 ### Personal Projects
-
+<p align="center">
+  <img src="https://styled-svg-cards-lij8f7jby-manucovrs-projects.vercel.app/api?user=manucovr&repos
+=Behind,MDpad,improved_intra,pdfbox,regexa&title=Personal+Projects" />
+</p>
 <div align="center">
 
 | Project | Description | Stack |
