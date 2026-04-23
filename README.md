@@ -30,10 +30,6 @@
 ---
 
 ### Personal Projects
-<p align="center">
-  <img src="https://styled-svg-cards-lij8f7jby-manucovrs-projects.vercel.app/api?user=manucovr&repos
-=Behind,MDpad,improved_intra,pdfbox,regexa&title=Personal+Projects" />
-</p>
 <div align="center">
 
 | Project | Description | Stack |
