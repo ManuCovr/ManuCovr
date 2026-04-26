@@ -59,7 +59,7 @@
 | [Philosophers](https://github.com/ManuCovr/Philo) | Multithreading, mutexes, deadlock prevention | ✓ |
 | [Cube3D](https://github.com/bbento-a/42-Cub3D) | 3D raycasting, textures, collision detection | ✓ |
 | [CPP Modules 00–04](https://github.com/ManuCovr/cpp) | OOP fundamentals, classes, inheritance, polymorphism | ✓ |
-| [CPP Modules 05–09](https://github.com/ManuCovr/cpp) | Templates, STL, exceptions, advanced OOP | 09 pending |
+| [CPP Modules 05–09](https://github.com/ManuCovr/cpp) | Templates, STL, exceptions, advanced OOP | ✓ |
 | [Inception](https://github.com/ManuCovr/inception) | Docker, containerization, service orchestration | ✓ |
 
 </div>
