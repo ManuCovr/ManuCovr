@@ -34,7 +34,7 @@
 
 | Project | Description | Stack |
 |:--:|:--|:--|
-| [Behind](https://github.com/ManuCovr/Behind) | Game built from scratch | C#, GDScript |
+| [Umbra](https://github.com/ManuCovr/Umbra) | Game built from scratch | C#, GDScript |
 | [MDpad](https://github.com/ManuCovr/MDpad) | Minimal markdown editor for the browser | Vanilla JS |
 | [Improved Intra](https://github.com/ManuCovr/improved_intra/tree/mde-maga) | Browser extension that fixes the 42 intranet | JS, Chrome API |
 | [PDFbox](https://manucovr.github.io/pdfbox) | Free browser-based PDF toolkit | Vanilla JS |
