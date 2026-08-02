@@ -14,42 +14,41 @@
 
 <br>
 
-## Games
-
-### Released under the name Shrew Brain
+# GAMES BY [SHREWBRAIN](https://shrewbrain.itch.io/)
 
 <p align="center">
   <a href="https://shrewbrain.itch.io/">
-    <img src="https://img.shields.io/badge/PLAY%20MY%20GAMES%20ON%20ITCH.IO-F1B447?style=for-the-badge&logo=itchdotio&logoColor=031927&labelColor=F1B447" height="48" alt="Play my games on itch.io">
+    <img src="https://img.shields.io/badge/PLAY%20MY%20GAMES%20ON%20ITCH.IO-F1B447?style=for-the-badge&logo=itchdotio&logoColor=031927&labelColor=F1B447" height="52" alt="Play my games on itch.io">
   </a>
 </p>
 
-- **[Wet Socks](https://shrewbrain.itch.io/wet-socks-demo)** — momentum platformer where staying wet keeps you fast and loose, and drying out makes you slow and precise. Demo out now, Windows / Linux / macOS.
-- **[EVIL logistics](https://shrewbrain.itch.io/evil-logistics-web-version)** — puzzle game built for the 42 Game Jam. Plays in the browser.
-- **[REMnant](https://shrewbrain.itch.io/remnant)** — find the door. Wake up. Repeat.
+<p align="center">
+  <a href="https://shrewbrain.itch.io/wet-socks-demo"><img src="game-wet-socks.svg" width="552" alt="Wet Socks by Shrew Brain — platformer demo, download for Windows, Linux and macOS"></a>
+  <br>
+  <a href="https://shrewbrain.itch.io/evil-logistics-web-version"><img src="game-evil-logistics.svg" width="552" alt="EVIL logistics by Shrew Brain — puzzle game from the 42 Game Jam, plays in browser"></a>
+  <br>
+  <a href="https://shrewbrain.itch.io/remnant"><img src="game-remnant.svg" width="552" alt="REMnant by Shrew Brain — puzzle, download"></a>
+</p>
 
 <br>
 
 ## Tools
 
-### Built because I wanted them to exist
-
-Everything runs client-side. No accounts, no uploads, no server ever sees your files.
+<div align="center">
 
 | | | |
 |:--|:--|:--|
-| **[Improved Intra](https://github.com/ManuCovr/improved_intra/tree/mde-maga)** | Browser extension that fixes the 42 intranet. **Used by 3000+ students monthly, worldwide.** | JS · Chrome API |
 | **[MDpad](https://manucovr.github.io/MDpad)** | Markdown editor with live preview | Vanilla JS |
 | **[PDFbox](https://manucovr.github.io/pdfbox)** | PDF toolkit — merge, split, compress, convert | Vanilla JS |
 | **[Regexa](https://manucovr.github.io/regexa)** | Regex explainer with live match highlighting | Vanilla JS |
+
+</div>
 
 <br>
 
 ## 42 Lisbon
 
-### The common core
-
-Written from scratch in C and C++. No external libraries, every allocation accounted for.
+<div align="center">
 
 | | |
 |:--|:--|
@@ -65,4 +64,6 @@ Written from scratch in C and C++. No external libraries, every allocation accou
 | **[GetNextLine](https://github.com/ManuCovr/getnextline)** | Buffered file reading, static variables, dynamic memory |
 | **[Libft](https://github.com/ManuCovr/libft)** | Standard library reimplementation |
 
-![Available for collaborations — mtmpfb@gmail.com](footer.svg)
+</div>
+
+![Open to collaborations — mtmpfb@gmail.com](footer.svg)
