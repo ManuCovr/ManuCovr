@@ -1,84 +1,65 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=130&section=header"/>
-
-<h1 align="center">Manuel Bernardes</h1>
+![Manuel Bernardes — 42 Lisbon, Shrew Brain, Portugal](banner.svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=70A5FD&center=true&vCenter=true&width=460&lines=Student+%40+42+Lisbon;Indie+gamedev+%40+Shrew+Brain;C+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+GDScript+%C2%B7+JS" alt="Typing SVG" />
+  <a href="https://manucovr.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-031927?style=flat-square&logo=vercel&logoColor=F1B447" alt="Portfolio"></a>
+  <a href="https://shrewbrain.itch.io/"><img src="https://img.shields.io/badge/itch.io-031927?style=flat-square&logo=itchdotio&logoColor=F1B447" alt="itch.io"></a>
+  <a href="https://www.twitch.tv/shrewbrain"><img src="https://img.shields.io/badge/Twitch-031927?style=flat-square&logo=twitch&logoColor=F1B447" alt="Twitch"></a>
+  <a href="https://linkedin.com/in/manuelbernardes42"><img src="https://img.shields.io/badge/LinkedIn-031927?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0YxQjQ0NyIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn"></a>
+  <a href="mailto:mtmpfb@gmail.com"><img src="https://img.shields.io/badge/Email-031927?style=flat-square&logo=maildotru&logoColor=F1B447" alt="Email"></a>
 </p>
 
-<p align="center">
-  <a href="https://manucovr.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/manuelbernardes42"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="https://www.twitch.tv/shrewbrain"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white" alt="Twitch"></a>
-  &nbsp;
-  <a href="mailto:mtmpfb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  &nbsp;
-  <a href="https://github.com/ManuCovr"><img src="https://img.shields.io/github/followers/manucovr?label=Follow&style=social" alt="GitHub Followers"></a>
-</p>
+Indie dev from Portugal. Four years writing software, the last year and a half making games.
+Most of what I build starts from nothing — no engines I didn't read the source of, no libraries I didn't need.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,godot,docker&theme=dark" />
-</p>
+**Stack** — C · C++ · C# · GDScript · JavaScript · Docker
 
 <br>
 
----
+## Games
 
-<h2 align="center">🎮 I make games as <a href="https://shrewbrain.itch.io/">Shrew Brain</a></h2>
+I release under the name **Shrew Brain**.
 
 <p align="center">
   <a href="https://shrewbrain.itch.io/">
-    <img src="https://img.shields.io/badge/PLAY%20MY%20GAMES%20ON%20ITCH.IO-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=1a1b27" height="46" alt="Play my games on itch.io">
+    <img src="https://img.shields.io/badge/PLAY%20MY%20GAMES%20ON%20ITCH.IO-F1B447?style=for-the-badge&logo=itchdotio&logoColor=031927&labelColor=F1B447" height="48" alt="Play my games on itch.io">
   </a>
 </p>
 
-<br>
-
-- **[Wet Socks](https://shrewbrain.itch.io/wet-socks-demo)** — momentum platformer where staying wet keeps you fast and loose, drying out makes you slow and precise. *Demo out now · Windows / Linux / macOS*
-- **[EVIL logistics](https://shrewbrain.itch.io/evil-logistics-web-version)** — puzzle game built for the 42 Game Jam. *Plays in your browser*
-- **[REMnant](https://shrewbrain.itch.io/remnant)** — find the door. Wake up. Repeat. *Puzzle*
+- **[Wet Socks](https://shrewbrain.itch.io/wet-socks-demo)** — momentum platformer where staying wet keeps you fast and loose, and drying out makes you slow and precise. Demo out now, Windows / Linux / macOS.
+- **[EVIL logistics](https://shrewbrain.itch.io/evil-logistics-web-version)** — puzzle game built for the 42 Game Jam. Plays in the browser.
+- **[REMnant](https://shrewbrain.itch.io/remnant)** — find the door. Wake up. Repeat.
 
 <br>
 
----
+## Tools
 
-### 🛠 Personal Projects
+Small things I built because I wanted them to exist. Everything runs client-side — no accounts, no uploads, no server ever sees your files.
 
-Small tools I built because I wanted them to exist. All run entirely in the browser — no accounts, no uploads, no servers.
-
-| Project | What it does | Stack |
+| | | |
 |:--|:--|:--|
-| **[Improved Intra](https://github.com/ManuCovr/improved_intra/tree/mde-maga)** | Browser extension that fixes the 42 intranet — **used monthly by 3000+ students worldwide** | JS, Chrome API |
-| **[MDpad](https://manucovr.github.io/MDpad)** | Minimal markdown editor with live preview | Vanilla JS |
-| **[PDFbox](https://manucovr.github.io/pdfbox)** | Free PDF toolkit — merge, split, compress, convert | Vanilla JS |
+| **[Improved Intra](https://github.com/ManuCovr/improved_intra/tree/mde-maga)** | Browser extension that fixes the 42 intranet. **Used by 3000+ students monthly, worldwide.** | JS · Chrome API |
+| **[MDpad](https://manucovr.github.io/MDpad)** | Markdown editor with live preview | Vanilla JS |
+| **[PDFbox](https://manucovr.github.io/pdfbox)** | PDF toolkit — merge, split, compress, convert | Vanilla JS |
 | **[Regexa](https://manucovr.github.io/regexa)** | Regex explainer with live match highlighting | Vanilla JS |
 
 <br>
 
----
+## 42 Lisbon
 
-### 🎓 42 Lisbon
+The common core. Written from scratch in C and C++, no external libraries, every allocation accounted for.
 
-The common core — everything written from scratch in C and C++, no external libraries.
-
-| Project | Concepts |
+| | |
 |:--|:--|
-| [**Transcendence**](https://github.com/martimsaunders/transcendence) | Full-stack web app, real-time multiplayer, auth, microservices |
-| [**Inception**](https://github.com/ManuCovr/Inception) | Docker, containerization, service orchestration |
-| [**CPP Modules 00–09**](https://github.com/ManuCovr/CPP) | OOP, inheritance, polymorphism, templates, STL, exceptions |
-| [**Cub3D**](https://github.com/bbento-a/42-Cub3D) | 3D raycasting engine, texturing, collision detection |
-| [**Philosophers**](https://github.com/ManuCovr/Philo) | Multithreading, mutexes, deadlock prevention |
-| [**Minishell**](https://github.com/bbento-a/ProjectMinishell) | Shell parsing, environment vars, process control |
-| [**Pipex**](https://github.com/ManuCovr/pipex) | UNIX piping, process forking, file descriptors |
-| [**Push Swap**](https://github.com/ManuCovr/push_swap) | Sorting algorithms, stack operations, complexity |
-| [**So Long**](https://github.com/ManuCovr/so_long) | 2D game logic, pathfinding, rendering |
-| **GetNextLine** | Buffered file reading, static variables, dynamic memory |
-| [**Libft**](https://github.com/ManuCovr/libft) | Standard library reimplementation |
+| **[Transcendence](https://github.com/martimsaunders/transcendence)** | Full-stack web app, real-time multiplayer, auth, microservices |
+| **[Inception](https://github.com/ManuCovr/Inception)** | Docker, containerization, service orchestration |
+| **[CPP Modules 00–09](https://github.com/ManuCovr/CPP)** | OOP, inheritance, polymorphism, templates, STL, exceptions |
+| **[Cub3D](https://github.com/bbento-a/42-Cub3D)** | 3D raycasting engine, texturing, collision detection |
+| **[Philosophers](https://github.com/ManuCovr/Philo)** | Multithreading, mutexes, deadlock prevention |
+| **[Minishell](https://github.com/bbento-a/ProjectMinishell)** | Shell parsing, environment variables, process control |
+| **[Pipex](https://github.com/ManuCovr/pipex)** | UNIX piping, process forking, file descriptors |
+| **[Push Swap](https://github.com/ManuCovr/push_swap)** | Sorting algorithms, stack operations, complexity limits |
+| **[So Long](https://github.com/ManuCovr/so_long)** | 2D game logic, pathfinding, rendering |
+| **[GetNextLine](https://github.com/ManuCovr/getnextline)** | Buffered file reading, static variables, dynamic memory |
+| **[Libft](https://github.com/ManuCovr/libft)** | Standard library reimplementation |
 
-<br>
-
-<p align="center"><i>Open to collaborations — reach me at <a href="mailto:mtmpfb@gmail.com">mtmpfb@gmail.com</a></i></p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=130&section=footer"/>
+![Available for collaborations — mtmpfb@gmail.com](footer.svg)
