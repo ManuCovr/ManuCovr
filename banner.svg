@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Manuel Bernardes - 42 Lisbon, Shrew Brain, Portugal">
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#0e2432" opacity="0.55"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#031927" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#031927" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="220" fill="#031927"/>
+  <rect width="1000" height="220" fill="url(#scan)"/>
+
+  <g transform="translate(80,0)">
+  <rect x="728" y="70" width="10" height="10" fill="#F1B447" opacity="0.43"/>
+  <rect x="728" y="126" width="10" height="10" fill="#F1B447" opacity="0.43"/>
+  <rect x="756" y="42" width="10" height="10" fill="#F1B447" opacity="0.51"/>
+  <rect x="756" y="70" width="10" height="10" fill="#F1B447" opacity="0.51"/>
+  <rect x="756" y="98" width="10" height="10" fill="#F1B447" opacity="0.51"/>
+  <rect x="756" y="126" width="10" height="10" fill="#F1B447" opacity="0.51"/>
+  <rect x="756" y="154" width="10" height="10" fill="#F1B447" opacity="0.51"/>
+  <rect x="770" y="56" width="10" height="10" fill="#F1B447" opacity="0.55"/>
+  <rect x="770" y="112" width="10" height="10" fill="#F1B447" opacity="0.55"/>
+  <rect x="784" y="42" width="10" height="10" fill="#F1B447" opacity="0.59"/>
+  <rect x="784" y="70" width="10" height="10" fill="#F1B447" opacity="0.59"/>
+  <rect x="784" y="98" width="10" height="10" fill="#F1B447" opacity="0.59"/>
+  <rect x="784" y="126" width="10" height="10" fill="#F1B447" opacity="0.59"/>
+  <rect x="784" y="154" width="10" height="10" fill="#672F46" opacity="0.59"/>
+  <rect x="798" y="56" width="10" height="10" fill="#F1B447" opacity="0.62"/>
+  <rect x="798" y="84" width="10" height="10" fill="#F1B447" opacity="0.62"/>
+  <rect x="798" y="112" width="10" height="10" fill="#F1B447" opacity="0.62"/>
+  <rect x="798" y="140" width="10" height="10" fill="#672F46" opacity="0.62"/>
+  <rect x="812" y="42" width="10" height="10" fill="#F1B447" opacity="0.66"/>
+  <rect x="812" y="70" width="10" height="10" fill="#F1B447" opacity="0.66"/>
+  <rect x="812" y="98" width="10" height="10" fill="#F1B447" opacity="0.66"/>
+  <rect x="812" y="126" width="10" height="10" fill="#672F46" opacity="0.66"/>
+  <rect x="812" y="154" width="10" height="10" fill="#F1B447" opacity="0.66"/>
+  <rect x="826" y="42" width="10" height="10" fill="#F1B447" opacity="0.7"/>
+  <rect x="826" y="56" width="10" height="10" fill="#F1B447" opacity="0.7"/>
+  <rect x="826" y="84" width="10" height="10" fill="#F1B447" opacity="0.7"/>
+  <rect x="826" y="98" width="10" height="10" fill="#F1B447" opacity="0.7"/>
+  <rect x="826" y="112" width="10" height="10" fill="#672F46" opacity="0.7"/>
+  <rect x="826" y="140" width="10" height="10" fill="#F1B447" opacity="0.7"/>
+  <rect x="826" y="154" width="10" height="10" fill="#F1B447" opacity="0.7"/>
+  <rect x="840" y="42" width="10" height="10" fill="#F1B447" opacity="0.74"/>
+  <rect x="840" y="70" width="10" height="10" fill="#F1B447" opacity="0.74"/>
+  <rect x="840" y="98" width="10" height="10" fill="#672F46" opacity="0.74"/>
+  <rect x="840" y="126" width="10" height="10" fill="#F1B447" opacity="0.74"/>
+  <rect x="840" y="154" width="10" height="10" fill="#F1B447" opacity="0.74"/>
+  <rect x="854" y="42" width="10" height="10" fill="#F1B447" opacity="0.78"/>
+  <rect x="854" y="56" width="10" height="10" fill="#F1B447" opacity="0.78"/>
+  <rect x="854" y="70" width="10" height="10" fill="#F1B447" opacity="0.78"/>
+  <rect x="854" y="84" width="10" height="10" fill="#672F46" opacity="0.78"/>
+  <rect x="854" y="98" width="10" height="10" fill="#F1B447" opacity="0.78"/>
+  <rect x="854" y="112" width="10" height="10" fill="#F1B447" opacity="0.78"/>
+  <rect x="854" y="126" width="10" height="10" fill="#F1B447" opacity="0.78"/>
+  <rect x="854" y="140" width="10" height="10" fill="#F1B447" opacity="0.78"/>
+  <rect x="854" y="154" width="10" height="10" fill="#F1B447" opacity="0.78"/>
+  <rect x="868" y="42" width="10" height="10" fill="#F1B447" opacity="0.82"/>
+  <rect x="868" y="56" width="10" height="10" fill="#F1B447" opacity="0.82"/>
+  <rect x="868" y="70" width="10" height="10" fill="#672F46" opacity="0.82"/>
+  <rect x="868" y="98" width="10" height="10" fill="#F1B447" opacity="0.82"/>
+  <rect x="868" y="112" width="10" height="10" fill="#F1B447" opacity="0.82"/>
+  <rect x="868" y="126" width="10" height="10" fill="#F1B447" opacity="0.82"/>
+  <rect x="868" y="154" width="10" height="10" fill="#F1B447" opacity="0.82"/>
+  <rect x="882" y="42" width="10" height="10" fill="#F1B447" opacity="0.86"/>
+  <rect x="882" y="56" width="10" height="10" fill="#672F46" opacity="0.86"/>
+  <rect x="882" y="70" width="10" height="10" fill="#F1B447" opacity="0.86"/>
+  <rect x="882" y="84" width="10" height="10" fill="#F1B447" opacity="0.86"/>
+  <rect x="882" y="98" width="10" height="10" fill="#F1B447" opacity="0.86"/>
+  <rect x="882" y="112" width="10" height="10" fill="#F1B447" opacity="0.86"/>
+  <rect x="882" y="126" width="10" height="10" fill="#F1B447" opacity="0.86"/>
+  <rect x="882" y="140" width="10" height="10" fill="#F1B447" opacity="0.86"/>
+  <rect x="882" y="154" width="10" height="10" fill="#672F46" opacity="0.86"/>
+  <rect x="896" y="42" width="10" height="10" fill="#672F46" opacity="0.9"/>
+  <rect x="896" y="56" width="10" height="10" fill="#F1B447" opacity="0.9"/>
+  <rect x="896" y="70" width="10" height="10" fill="#F1B447" opacity="0.9"/>
+  <rect x="896" y="84" width="10" height="10" fill="#F1B447" opacity="0.9"/>
+  <rect x="896" y="98" width="10" height="10" fill="#F1B447" opacity="0.9"/>
+  <rect x="896" y="112" width="10" height="10" fill="#F1B447" opacity="0.9"/>
+  <rect x="896" y="126" width="10" height="10" fill="#F1B447" opacity="0.9"/>
+  <rect x="896" y="140" width="10" height="10" fill="#672F46" opacity="0.9"/>
+  <rect x="896" y="154" width="10" height="10" fill="#F1B447" opacity="0.9"/>
+  </g>
+
+  <rect x="780" y="0" width="180" height="220" fill="url(#fade)"/>
+
+  <rect x="0" y="0" width="8" height="220" fill="#F1B447"/>
+  <rect x="8" y="0" width="3" height="220" fill="#672F46"/>
+
+  <text x="56" y="96" font-family="ui-monospace, 'Cascadia Mono', 'Consolas', 'Courier New', monospace" font-size="46" font-weight="700" letter-spacing="1" fill="#F1B447">MANUEL BERNARDES</text>
+
+  <rect x="56" y="118" width="470" height="2" fill="#124463"/>
+
+  <text x="56" y="152" font-family="ui-monospace, 'Cascadia Mono', 'Consolas', 'Courier New', monospace" font-size="17" letter-spacing="3" fill="#5b93b8">42 LISBON  //  SHREW BRAIN  //  PORTUGAL</text>
+
+  <text x="56" y="182" font-family="ui-monospace, 'Cascadia Mono', 'Consolas', 'Courier New', monospace" font-size="14" letter-spacing="1" fill="#b06a86">low-level systems by day, small strange games by night</text>
+
+  <rect x="0" y="216" width="1000" height="4" fill="#124463"/>
+</svg>
