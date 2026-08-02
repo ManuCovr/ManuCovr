@@ -1,4 +1,4 @@
-![Manuel Bernardes — 42 Lisbon, Shrew Brain, Portugal](banner.svg)
+![Manuel Bernardes — 42 Lisbon, @shrewbrain](banner.svg)
 
 <p align="center">
   <a href="https://manucovr.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-031927?style=flat-square&logo=vercel&logoColor=F1B447" alt="Portfolio"></a>
@@ -8,16 +8,15 @@
   <a href="mailto:mtmpfb@gmail.com"><img src="https://img.shields.io/badge/Email-031927?style=flat-square&logo=maildotru&logoColor=F1B447" alt="Email"></a>
 </p>
 
-Indie dev from Portugal. Four years writing software, the last year and a half making games.
-Most of what I build starts from nothing — no engines I didn't read the source of, no libraries I didn't need.
-
-**Stack** — C · C++ · C# · GDScript · JavaScript · Docker
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,godot,docker&theme=dark" alt="C, C++, C#, JavaScript, Godot, Docker" />
+</p>
 
 <br>
 
 ## Games
 
-I release under the name **Shrew Brain**.
+### Released under the name Shrew Brain
 
 <p align="center">
   <a href="https://shrewbrain.itch.io/">
@@ -33,7 +32,9 @@ I release under the name **Shrew Brain**.
 
 ## Tools
 
-Small things I built because I wanted them to exist. Everything runs client-side — no accounts, no uploads, no server ever sees your files.
+### Built because I wanted them to exist
+
+Everything runs client-side. No accounts, no uploads, no server ever sees your files.
 
 | | | |
 |:--|:--|:--|
@@ -46,7 +47,9 @@ Small things I built because I wanted them to exist. Everything runs client-side
 
 ## 42 Lisbon
 
-The common core. Written from scratch in C and C++, no external libraries, every allocation accounted for.
+### The common core
+
+Written from scratch in C and C++. No external libraries, every allocation accounted for.
 
 | | |
 |:--|:--|
