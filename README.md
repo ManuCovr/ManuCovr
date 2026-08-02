@@ -1,4 +1,4 @@
-![Manuel Bernardes — 42 Lisbon, @shrewbrain](banner.svg)
+![Manuel Bernardes — 42 Lisbon, @shrewbrain](hero.svg)
 
 <p>
   <a href="https://manucovr.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=vercel&logoColor=58a6ff" alt="Portfolio"></a>
@@ -16,11 +16,11 @@
 
 <a href="https://shrewbrain.itch.io/"><img src="https://img.shields.io/badge/PLAY%20MY%20GAMES%20ON%20ITCH.IO-1f6feb?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=1f6feb" height="46" alt="Play my games on itch.io"></a>
 
-<a href="https://shrewbrain.itch.io/wet-socks-demo"><img src="game-wet-socks.svg" width="552" alt="Wet Socks by Shrew Brain — platformer demo, download for Windows, Linux and macOS"></a>
+<a href="https://shrewbrain.itch.io/wet-socks-demo"><img src="card-wet-socks.svg" width="552" alt="Wet Socks by Shrew Brain — platformer demo, download for Windows, Linux and macOS"></a>
 
-<a href="https://shrewbrain.itch.io/evil-logistics-web-version"><img src="game-evil-logistics.svg" width="552" alt="EVIL logistics by Shrew Brain — puzzle game from the 42 Game Jam, plays in the browser"></a>
+<a href="https://shrewbrain.itch.io/evil-logistics-web-version"><img src="card-evil-logistics.svg" width="552" alt="EVIL logistics by Shrew Brain — puzzle game from the 42 Game Jam, plays in the browser"></a>
 
-<a href="https://shrewbrain.itch.io/remnant"><img src="game-remnant.svg" width="552" alt="REMnant by Shrew Brain — puzzle, download"></a>
+<a href="https://shrewbrain.itch.io/remnant"><img src="card-remnant.svg" width="552" alt="REMnant by Shrew Brain — puzzle, download"></a>
 
 <br>
 
@@ -50,4 +50,4 @@
 | **[GetNextLine](https://github.com/ManuCovr/getnextline)** | Buffered file reading, static variables, dynamic memory |
 | **[Libft](https://github.com/ManuCovr/libft)** | Standard library reimplementation |
 
-![Open to collaborations — mtmpfb@gmail.com](footer.svg)
+![Open to collaborations — mtmpfb@gmail.com](contact.svg)
